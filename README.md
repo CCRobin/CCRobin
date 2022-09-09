@@ -6,7 +6,7 @@ Software Engineer (Validation)
 
 My language of choice is Java though I've dabbled in several. I've been a software engineer for about 10+ years now and always excited for a new challenge.
 
-*   🌍  I'm based in ATX
+*   🌍  I'm based in TX
 *   🧠  I'm learning Appium (iOS/Android)
 *   😄 Pronouns: She/her
 *   ⚡  I spend most of my time playing Pokémon Go, indulging in manga/anime and running around
